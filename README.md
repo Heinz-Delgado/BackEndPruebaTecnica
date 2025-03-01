@@ -17,6 +17,7 @@ Instalación y Configuración
 1. Clonar el repositorio
 
  git clone https://github.com/Heinz-Delgado/BackEndPruebaTecnica.git
+ 
  cd Prueba-Tecnica
 
 2. Configurar el entorno
