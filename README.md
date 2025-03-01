@@ -28,18 +28,11 @@ Asegúrate de tener Java 21 instalado y configurado en tu sistema.
  javac --version
 
 3. Ejecutar la aplicación
-
-Si usas Maven:
-
- mvn spring-boot:run
-
-Si usas Gradle:
-
- ./gradlew bootRun
+Abrir Spring Boot Dashboard y ejecutar Run en la sección de Apps
 
 La aplicación se ejecutará en http://localhost:8080.
 
-Endpoints
+# Endpoints
 
 Facturas
 
