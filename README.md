@@ -1,8 +1,8 @@
-Prueba Técnica
+# Prueba Técnica
 
 Este proyecto es una API desarrollada con Spring Boot y Java 21 para la gestión de facturas e invitados.
 
-Tecnologías Utilizadas
+# Tecnologías Utilizadas
 
 Java: OpenJDK 21.0.6 (Temurin LTS)
 
@@ -12,7 +12,7 @@ Maven/Gradle (según configuración del proyecto)
 
 PostgreSQL (si se usa base de datos)
 
-Instalación y Configuración
+# Instalación y Configuración
 
 1. Clonar el repositorio
 
