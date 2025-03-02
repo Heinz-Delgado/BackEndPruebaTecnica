@@ -27,7 +27,8 @@ Asegúrate de tener Java 21 instalado y configurado en tu sistema.
  java --version
  javac --version
 
-3. Ejecutar la aplicación
+3. Restaurar la base de datos que se encuentra en el archivo viaticos_db.sql
+4. Ejecutar la aplicación
 Abrir Spring Boot Dashboard y ejecutar Run en la sección de Apps
 
 La aplicación se ejecutará en http://localhost:8080.
